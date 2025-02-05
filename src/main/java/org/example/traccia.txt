@@ -1,0 +1,2 @@
+Sviluppare in Java il gioco della tombola con l'ausilio degli Array.
+Generare 90 nummeri ordinati in ordine casuale all'interno di un array con il metodo a voi più congeniale, generare una cartella composta da 15 numeri ordinati non ripetuti ordinati dentro un array.
